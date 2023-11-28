@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Share Folder\For_Server_Deploy\ezremit\LIVE\new Service Code 16.08.22</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EzRemitService.dll">
+      <publishTime>08/16/2022 13:53:52</publishTime>
+    </File>
+    <File Include="EzRemitServiceClass.svc">
+      <publishTime>03/12/2022 16:11:58</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.Agent.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.AgentLocation.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.Country.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.Currency.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.CurrencyRate.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.EzResponse.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.EzTransaction.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.PartnerBank.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.PartnerBranch.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.PaymentDetails.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Service References/EzRemitServiceReference/EzRemitService.EzRemitServiceReference.ReferenceData.datasource">
+      <publishTime>08/16/2022 09:58:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/16/2022 13:53:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
